@@ -4,7 +4,6 @@ import game.GameEngine;
 import java.util.Scanner;
 import strategy.DealerStrategy;
 
-// ... решта імпортів і класу
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
